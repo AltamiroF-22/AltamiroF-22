@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AltamiroF-22
 - 🌱 I’m currently learning Ts and a little bit of node js 
 - 📫 my current portfolio: https://juniorrx22.netlify.app/
-- 📫 You can get in touch with me in instagram "junior.rx22" on "altamiroribeirodarocha@gmail.com"
+- 📫 You can get in touch with me in instagram https://www.instagram.com/junior.rx22/ || "altamiroribeirodarocha@gmail.com"
