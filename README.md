@@ -1,4 +1,4 @@
 - Hi...
 - 🌱 I’m currently learning Ts and a little bit of node js 
 - 📫 my current portfolio: https://juniorrx22.netlify.app/
-- Exercism: https://exercism.org/profiles/AltamiroF-22
+- Exercism: https://exercism.org/profiles/AltamiroF-22/solutions
