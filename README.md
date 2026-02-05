@@ -47,8 +47,9 @@
         <br />
         <strong>Spring Boot</strong>
         <br />
-        <sub>Early stage · Backend fundamentals</sub>
+        <sub>Early stage · Leveraging existing backend experience</sub>
       </td>
     </tr>
   </tbody>
 </table>
+
