@@ -34,11 +34,6 @@
     </tr>
   </tbody>
 </table>
-
-<br />
-
-<h3 align="center">📚 Currently Learning</h3>
-
 <table align="center">
   <tbody>
     <tr>
